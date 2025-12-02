@@ -57,18 +57,19 @@
 <ul>
 
 <li>
-<a href="www.linkedin.com/in/roberto-denilson-gonzalez-zavala-57222b362" target="_blank">
-<img src="https://img.shields.io/badge/linkedin: "www.linkedin.com/in/roberto-denilson-gonzalez-zavala-57222b362" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
+  <a href="https://www.linkedin.com/in/roberto-denilson-gonzalez-zavala-57222b362" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;"/>
+  </a>
 </li>
 
 <br>
 
 <li>
-<a href="mailto:gzdenilson25@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
+  <a href="mailto:gzdenilson25@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;"/>
+  </a>
 </li>
+
 	
 </ul>
 </div>
